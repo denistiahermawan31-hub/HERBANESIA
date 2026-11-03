@@ -1,2 +1,12 @@
 # HERBANESIA
-HERBANESIA — Aplikasi mobile berbasis Flutter yang berfokus pada informasi dan pengenalan tanaman herbal
+
+HERBANESIA merupakan aplikasi mobile
+berbasis Flutter yang dikembangkan
+sebagai proyek pembelajaran.
+
+## Tech Stack
+- Flutter
+- Dart
+
+## Status
+Development
